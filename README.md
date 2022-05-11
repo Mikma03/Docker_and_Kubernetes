@@ -21,9 +21,6 @@ Courses and resources about Docker. Examples of ussing on production and advance
 - Docker Mastery
     - https://www.udemy.com/course/docker-mastery/
 
-- Docker Fundamentals for Beginners
-    - https://www.packtpub.com/product/docker-fundamentals-for-beginners-video/9781803237428
-
 - Python in Containers
     - https://www.packtpub.com/product/python-in-containers-video/9781800200753
 
