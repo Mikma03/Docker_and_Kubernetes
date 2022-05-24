@@ -16,15 +16,19 @@ Courses and resources about Docker. Examples of ussing on production and advance
 
 # Introduction
 
+
 # Resources Docker
 
 - Docker Mastery
     - https://www.udemy.com/course/docker-mastery/
 
-- Python in Containers
-    - https://www.packtpub.com/product/python-in-containers-video/9781800200753
+- Learn Docker in a Month - Elton Stoneman
+    - https://diamol.net/
 
 # Resources Kubernetes
 
 - Kubernetes Mastery
     - https://www.udemy.com/course/kubernetesmastery/
+
+- Learn Kubernetes in a Month - Elton Stoneman
+    - https://kiamol.net/
