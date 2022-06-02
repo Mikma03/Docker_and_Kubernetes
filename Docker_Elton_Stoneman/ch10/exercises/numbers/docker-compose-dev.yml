@@ -16,4 +16,4 @@ services:
 
 networks:
   app-net:
-    name: numbers-dev
+    name: numbers-dev 
