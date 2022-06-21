@@ -17,7 +17,7 @@
     - https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww
 
 - YouTube start:
-    - https://www.youtube.com/watch?v=lO-Lwwy04zs&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww&index=10&ab_channel=EltonStoneman
+    - https://www.youtube.com/watch?v=zvjr8gmZjkE&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww&index=11&ab_channel=EltonStoneman
 
 - Website
     - https://diamol.net/
