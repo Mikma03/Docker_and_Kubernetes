@@ -32,3 +32,14 @@ Courses and resources about Docker. Examples of ussing on production and advance
 
 - Learn Kubernetes in a Month - Elton Stoneman
     - https://kiamol.net/
+
+# Mix of Docker and Kubernetes
+
+- Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
+- https://www.udemy.com/course/kubernetes-microservices/
+
+- Docker and Kubernetes: The Complete Guide
+- https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
+
+- Docker & Kubernetes: The Practical Guide [2022 Edition]
+- https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
