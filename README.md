@@ -10,10 +10,15 @@
 - [Dedicated Docker cert prepatration course](#dedicated-docker-cert-prepatration-course)
 - [Dedicated Kubernetes cert preparation course](#dedicated-kubernetes-cert-preparation-course)
 - [Certyfications - Docker and Kubernetes](#certyfications---docker-and-kubernetes)
+- [Microservices](#microservices)
 
 <!-- /TOC -->
 
 # Resources Docker
+
+- Docker docs
+
+  - https://docs.docker.com/
 
 - Docker Mastery
 
@@ -21,14 +26,21 @@
 
 - Learn Docker in a Month - Elton Stoneman
 
-  - https://diamol.net/
+  - BOOK: https://diamol.net/
+  - YouTube: https://www.youtube.com/watch?v=QTnVztPl2Uw&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww&ab_channel=EltonStoneman
 
 - InfoShare Academy Course
 
   - https://www.dockermasters.pl/
 
 - Docker from scratch
+
   - https://www.udemy.com/course/learn-docker/
+
+- Continuous Delivery with Docker and Jenkins
+
+  - https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/
+
 
 # Resources Kubernetes
 
@@ -80,3 +92,8 @@ cost: 195 USD
 Link: https://www.cncf.io/certification/kcna/
 
 cost: 250 USD
+
+# Microservices
+
+- Bootstrapping Microservices
+  - https://learning.oreilly.com/library/view/bootstrapping-microservices-with/9781617297212/
