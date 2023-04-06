@@ -93,6 +93,12 @@
 - Restarting and joining the container
   - https://www.infoshareacademy.online/products/docker-masters/categories/4302498/posts/14545939
 
+- Accessing inside the container and running commands
+  - https://www.infoshareacademy.online/products/docker-masters/categories/4302498/posts/14546065
+
+- Graceful shutdown
+  - https://www.infoshareacademy.online/products/docker-masters/categories/4302498/posts/14545940
+
 ## Docker for DevOps
 
 ## Docker for Backend
