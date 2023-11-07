@@ -16,6 +16,10 @@
 
 # Resources Docker
 
+- Docker cheatsheet
+
+  - https://collabnix.com/docker-cheatsheet/
+
 - Docker docs
 
   - https://docs.docker.com/
@@ -33,10 +37,6 @@
 
   - https://www.dockermasters.pl/
 
-- Docker from scratch
-
-  - https://www.udemy.com/course/learn-docker/
-
 - Continuous Delivery with Docker and Jenkins
 
   - https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/
@@ -50,6 +50,12 @@
 
 - Learn Kubernetes in a Month - Elton Stoneman
   - https://kiamol.net/
+
+- Advanced Platform Development with Kubernetes
+  - https://learning.oreilly.com/library/view/advanced-platform-development/9781484256114/
+
+- Kubernetes The Hard Way
+  - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ## AWS Kubernetes
 
@@ -74,6 +80,11 @@
 
 - Certified Kubernetes Administrator
   - https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+  
+  - https://www.udemy.com/course/certified-kubernetes-administrator/
+
+- Certified Kubernetes Application Developer
+  - https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
 
 # Certyfications - Docker and Kubernetes
 

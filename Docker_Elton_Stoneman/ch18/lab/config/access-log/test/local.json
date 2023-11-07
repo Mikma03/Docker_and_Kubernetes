@@ -1,6 +1,0 @@
-{
-  "environment": "TEST",
-  "metrics": {
-    "enabled": false
-  }
-}

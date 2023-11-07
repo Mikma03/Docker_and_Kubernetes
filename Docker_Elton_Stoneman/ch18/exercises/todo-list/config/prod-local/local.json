@@ -1,8 +1,0 @@
-{
-  "Database": {
-    "Provider": "Sqlite"
-  },
-  "ConnectionStrings": {
-    "ToDoDb": "Filename=todo-list-PROD.db"
-  }
-}
