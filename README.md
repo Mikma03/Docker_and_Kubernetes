@@ -9,8 +9,8 @@
   - [Azure Kubernetes](#azure-kubernetes)
 - [Dedicated Docker cert prepatration course](#dedicated-docker-cert-prepatration-course)
 - [Dedicated Kubernetes cert preparation course](#dedicated-kubernetes-cert-preparation-course)
-- [Certyfications - Docker and Kubernetes](#certyfications---docker-and-kubernetes)
 - [Microservices](#microservices)
+- [Container Security](#container-security)
 
 <!-- /TOC -->
 
@@ -41,6 +41,8 @@
 
   - https://learning.oreilly.com/library/view/continuous-delivery-with/9781803237480/
 
+- The Ultimate Docker Container Book
+  - https://learning.oreilly.com/library/view/the-ultimate-docker/9781804613986/
 
 # Resources Kubernetes
 
@@ -49,9 +51,11 @@
   - https://www.udemy.com/course/kubernetesmastery/
 
 - Learn Kubernetes in a Month - Elton Stoneman
+
   - https://kiamol.net/
 
 - Advanced Platform Development with Kubernetes
+
   - https://learning.oreilly.com/library/view/advanced-platform-development/9781484256114/
 
 - Kubernetes The Hard Way
@@ -79,32 +83,19 @@
 # Dedicated Kubernetes cert preparation course
 
 - Certified Kubernetes Administrator
+
   - https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
-  
+
   - https://www.udemy.com/course/certified-kubernetes-administrator/
 
 - Certified Kubernetes Application Developer
   - https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
 
-# Certyfications - Docker and Kubernetes
-
-Courses and resources about Docker and Kubernetes. Examples of ussing on production and advanced cases.
-
----
-
-**Name: Docker Certified Associate**
-
-Link: https://training.mirantis.com/dca-certification-exam/
-
-cost: 195 USD
-
-**Name: KUBERNETES AND CLOUD NATIVE ASSOCIATE**
-
-Link: https://www.cncf.io/certification/kcna/
-
-cost: 250 USD
-
 # Microservices
 
 - Bootstrapping Microservices
   - https://learning.oreilly.com/library/view/bootstrapping-microservices-with/9781617297212/
+
+# Container Security
+
+- https://learning.oreilly.com/library/view/container-security/9781492056690/
